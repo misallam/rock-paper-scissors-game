@@ -49,7 +49,7 @@ README.md: The readme file provides instructions and information about the game.
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 # Credits
-This game was created by Abdelrahman Misallam as a part of Epsilon AI Data Science Diploma Projects for the year 2023. You can contact me at [abdelrahmanmomsi@gmail.com].
+This game was created by Abdelrahman Misallam as a part of Epsilon AI Data Science Diploma Projects for the year 2023. You can contact me at abdelrahmanmomsi@gmail.com.
 
 # Feedback
 If you have any feedback or questions about the game, please don't hesitate to reach out. Your input is highly appreciated!
