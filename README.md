@@ -10,15 +10,9 @@ Open your terminal or your code editor and navigate to the project directory.
 
 # Run the following command to start the game:
 
-def greet(name):
-    print(f"Hello, {name}!")
+$ cd {game_file_path}
 
-greet("Alice")
-
-
-cd {game_file_path}
-
-python main.py
+$ python main.py
 
 The game will display a prompt asking you to enter your name and gender, then to choose your move, and finally give you a comprehensive report about your time in the game.
 
