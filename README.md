@@ -10,6 +10,12 @@ Open your terminal or your code editor and navigate to the project directory.
 
 # Run the following command to start the game:
 
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("Alice")
+
+
 cd {game_file_path}
 
 python main.py
