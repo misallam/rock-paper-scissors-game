@@ -10,13 +10,17 @@ Open your terminal or your code editor and navigate to the project directory.
 
 # Run the following command to start the game:
 
-Firstly, go to the game directory:
+Go to the game directory:
 ``` shell
 $ cd {game_file_path}
 ```
-Secondly, run the main file to test the product in the terminal:
+Run the main file to test the product in the terminal:
 ``` python
 $ python main.py
+```
+You can run the graphical interface by running the game_gui file:
+``` python
+$ python game_gui.py
 ```
 The game will display a prompt asking you to enter your name and gender, then to choose your move, and finally give you a comprehensive report about your time in the game.
 
@@ -32,7 +36,7 @@ If both players choose the same move, it's a tie.
 
 The game will display the result (e.g., "You win!", "Computer wins!", or "It's a tie!").
 
-#### You can play again by choosing "y", or you can exit the game and get your cool report by typing "n" or "q" for "quit".
+#### You can play again by choosing "y", or you can exit the game and get your cool report by typing "n".
 
 # File Structure
 The repository contains the following files:
